@@ -714,7 +714,7 @@ if st.session_state.generated_data:
 # ─── تذييل التطبيق ─────────────────────────────────────────────────────────────
 st.markdown("""
 <div class="app-footer">
-  صُمِّم بـ ❤️ بواسطة <strong>محمد مجيمي</strong> &nbsp;|&nbsp;
+  صُمِّم بـ ❤️ بواسطة <strong>محمد مجممي</strong> &nbsp;|&nbsp;
   مدعوم بالذكاء الاصطناعي Google Gemini
 </div>
 """, unsafe_allow_html=True)
